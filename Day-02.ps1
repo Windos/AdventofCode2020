@@ -1,4 +1,4 @@
-$Passwords = Get-Content -Path C:\Temp\Passwords.txt
+$Passwords = Get-Content -Path 'Passwords.txt'
 
 # Part 1
 
