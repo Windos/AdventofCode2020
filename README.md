@@ -12,3 +12,4 @@ My AoC 2020 Solutions
 | 06 | [Custom Customs](https://adventofcode.com/2020/day/6) | [Day-06.ps1](Day-06.ps1) |
 | 07 | [Handy Haversacks](https://adventofcode.com/2020/day/7) | [Day-07.ps1](Day-07.ps1) |
 | 08 | [Handheld Halting](https://adventofcode.com/2020/day/8) | [Day-08-P1.ps1](Day-08-P1.ps1) [Day-08-P2.ps1](Day-08-P2.ps1) |
+| 09 | [Encoding Error](https://adventofcode.com/2020/day/9) | [Day-09.ps1](Day-09.ps1) |
