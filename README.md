@@ -15,3 +15,4 @@ My AoC 2020 Solutions
 | 09 | [Encoding Error](https://adventofcode.com/2020/day/9) | [Day-09.ps1](Day-09.ps1) |
 | 10 | [Adapter Array](https://adventofcode.com/2020/day/10) | [Day-10.ps1](Day-10.ps1) |
 | 11 | [Seating System](https://adventofcode.com/2020/day/11) | [Day-11-P1.ps1](Day-11-P1.ps1) [Day-11-P2.ps1](Day-11-P2.ps1) |
+| 12 | [Rain Risk](https://adventofcode.com/2020/day/12) | [Day-12.ps1](Day-12.ps1) |
